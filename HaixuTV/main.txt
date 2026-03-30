@@ -18,7 +18,7 @@
 
 { "url":"clan://localhost/tvboxTW/本地【王二小线】/api.json", "name": "本地【王二小线】" },
 
-{ "url":"https://haiaixu.github.io/HaixuTV/dalao/api.json", "name": "海旭-肥猫线路" },
+{ "url":"https://haiaixu.github.io/HaixuTV/feimao/api.json", "name": "海旭-肥猫线路" },
 
 { "url":"clan://localhost/tvboxTW/本地【摸鱼线路】/api.json", "name": "本地【摸鱼线路】" },
 
@@ -26,4 +26,4 @@
 
 { "url":"clan://localhost/tvboxTW/本地【小米线路】/api.json", "name": "本地【小米线路】" },
 
-{ "url":"https://haiaixu.github.io/HaixuTV/ok/api.json", "name": "海旭-OK线路" }]}
+{ "url":"https://haiaixu.github.io/HaixuTV/oak/api.json", "name": "海旭-OK线路" }]}
