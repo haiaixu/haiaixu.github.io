@@ -6,9 +6,9 @@
 
 { "url":"clan://localhost/tvboxTW/本地【小虎斑线】/api.json", "name": "本地【小虎斑线】" },
 
-{ "url":"clan://localhost/tvboxTW/本地【喵影视线】/api.json", "name": "本地【喵影视线】" },
+{ "url":"https://haiaixu.github.io/HaixuTV/miaoying/api.json", "name": "海旭-喵影线路" },
 
-{ "url":"clan://localhost/tvboxTW/本地【宫殿线路】/api.json", "name": "本地【宫殿线路】" },
+{ "url":"https://haiaixu.github.io/HaixuTV/gongdian/api.json", "name": "海旭-宫殿线路" },
 
 { "url":"https://haiaixu.github.io/HaixuTV/dalao/api.json", "name": "海旭-D佬线路" },
 
