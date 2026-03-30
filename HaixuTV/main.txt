@@ -1,6 +1,6 @@
-{ "urls": [{ "url": "clan://localhost/tvboxTW/本地【天微VIP线】/api.json", "name": "本地【天微VIP线】" },
+{ "urls": [{ "url": "https://haiaixu.github.io/HaixuTV/tianwei/api.json", "name": "海旭VIP线路" },
 
-{ "url":"clan://localhost/tvboxTW/本地【七星影视】/api.json", "name": "本地【七星影视】" },
+{ "url":"https://haiaixu.github.io/HaixuTV/qixing/api.json", "name": "本地【七星影视】" },
 
 { "url":"https://haiaixu.github.io/HaixuTV/fantaiying/api.json", "name": "海旭-饭太硬线" },
 
