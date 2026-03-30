@@ -1,10 +1,10 @@
 { "urls": [{ "url": "https://haiaixu.github.io/HaixuTV/tianwei/api.json", "name": "海旭VIP线路" },
 
-{ "url":"https://haiaixu.github.io/HaixuTV/qixing/api.json", "name": "本地【七星影视】" },
+{ "url":"https://haiaixu.github.io/HaixuTV/qixing/api.json", "name": "海旭-七星线路" },
 
-{ "url":"https://haiaixu.github.io/HaixuTV/fantaiying/api.json", "name": "海旭-饭太硬线" },
+{ "url":"https://haiaixu.github.io/HaixuTV/fantaiying/api.json", "name": "海旭-饭太硬线路" },
 
-{ "url":"clan://localhost/tvboxTW/本地【小虎斑线】/api.json", "name": "本地【小虎斑线】" },
+{ "url":"https://haiaixu.github.io/HaixuTV/xiaohuban/api.json", "name": "海旭-小虎斑线路" },
 
 { "url":"https://haiaixu.github.io/HaixuTV/miaoying/api.json", "name": "海旭-喵影线路" },
 
@@ -14,9 +14,9 @@
 
 { "url":"https://haiaixu.github.io/HaixuTV/vox/api.json", "name": "海旭-VOX线路" },
 
-{ "url":"clan://localhost/tvboxTW/本地【香雅情线】/api.json", "name": "本地【香雅情线】" },
+{ "url":"https://haiaixu.github.io/HaixuTV/xiangyaqing/api.json", "name": "海旭-香雅情线路" },
 
-{ "url":"clan://localhost/tvboxTW/本地【王二小线】/api.json", "name": "本地【王二小线】" },
+{ "url":"https://haiaixu.github.io/HaixuTV/wangerxiao/api.json", "name": "海旭-王二小线路" },
 
 { "url":"https://haiaixu.github.io/HaixuTV/feimao/api.json", "name": "海旭-肥猫线路" },
 
@@ -24,6 +24,6 @@
 
 { "url":"https://haiaixu.github.io/HaixuTV/ouge/api.json", "name": "海旭-讴歌线路" },
 
-{ "url":"clan://localhost/tvboxTW/本地【小米线路】/api.json", "name": "本地【小米线路】" },
+{ "url":"https://haiaixu.github.io/HaixuTV/xiaomi/api.json", "name": "海旭-小米线路" },
 
 { "url":"https://haiaixu.github.io/HaixuTV/oak/api.json", "name": "海旭-OK线路" }]}
