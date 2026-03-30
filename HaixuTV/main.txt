@@ -10,7 +10,7 @@
 
 { "url":"clan://localhost/tvboxTW/本地【宫殿线路】/api.json", "name": "本地【宫殿线路】" },
 
-{ "url":"https://haiaixu.github.io/HaixuTV/%E6%B5%B7%E6%97%AD-D%E4%BD%AC%E7%BA%BF%E8%B7%AF/api.json", "name": "海旭-D佬线路" },
+{ "url":"/海旭-D佬线路/api.json", "name": "海旭-D佬线路" },
 
 { "url":"clan://localhost/tvboxTW/本地【VOX线路】/api.json", "name": "本地【VOX线路】" },
 
