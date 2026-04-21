@@ -1,0 +1,29 @@
+{ "urls": [{ "url": "./tianwei/api.json", "name": "海旭VIP线路" },
+
+{ "url":"./qixing/api.json", "name": "海旭-七星线路" },
+
+{ "url":"./fantaiying/api.json", "name": "海旭-饭太硬线路" },
+
+{ "url":"./xiaohuban/api.json", "name": "海旭-小虎斑线路" },
+
+{ "url":"./miaoying/api.json", "name": "海旭-喵影线路" },
+
+{ "url":"./gongdian/api.json", "name": "海旭-宫殿线路" },
+
+{ "url":"./dalao/api.json", "name": "海旭-D佬线路" },
+
+{ "url":"./vox/api.json", "name": "海旭-VOX线路" },
+
+{ "url":"./xiangyaqing/api.json", "name": "海旭-香雅情线路" },
+
+{ "url":"./wangerxiao/api.json", "name": "海旭-王二小线路" },
+
+{ "url":"./feimao/api.json", "name": "海旭-肥猫线路" },
+
+{ "url":"./moyu/api.json", "name": "海旭-摸鱼线路" },
+
+{ "url":"./ouge/api.json", "name": "海旭-讴歌线路" },
+
+{ "url":"./xiaomi/api.json", "name": "海旭-小米线路" },
+
+{ "url":"./oak/api.json", "name": "海旭-OK线路" }]}
